@@ -20,7 +20,7 @@ public class Commission extends Hourly{
 
     }
     public String toString() {
-        String result = super.toString()+totalSales;
+        String result = super.toString();
         result += "\n销售总额: " + totalSales;
         return result;
     }

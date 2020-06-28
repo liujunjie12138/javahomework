@@ -1,0 +1,11 @@
+package club.banyuan;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        Fighter fighter1=new Fighter();
+        Fighter fighter2=new Fighter();
+
+    }
+}
