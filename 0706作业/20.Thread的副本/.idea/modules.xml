@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/practice/01.OutputInterval/01.OutputInterval.iml" filepath="$PROJECT_DIR$/practice/01.OutputInterval/01.OutputInterval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/01.SerialVsConcurrent/01.SerialVsConcurrent.iml" filepath="$PROJECT_DIR$/example/01.SerialVsConcurrent/01.SerialVsConcurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/02.StartThread/02.StartThread.iml" filepath="$PROJECT_DIR$/example/02.StartThread/02.StartThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/02.SubTask/02.SubTask.iml" filepath="$PROJECT_DIR$/practice/02.SubTask/02.SubTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/03.ThreadStatus/03.ThreadStatus.iml" filepath="$PROJECT_DIR$/example/03.ThreadStatus/03.ThreadStatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/20.Thread的副本.iml" filepath="$PROJECT_DIR$/.idea/20.Thread的副本.iml" />
+    </modules>
+  </component>
+</project>

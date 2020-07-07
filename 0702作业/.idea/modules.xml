@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.DataSet/01.DataSet.iml" filepath="$PROJECT_DIR$/01.DataSet/01.DataSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Pairs/02.Pairs.iml" filepath="$PROJECT_DIR$/02.Pairs/02.Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Points/03.Points.iml" filepath="$PROJECT_DIR$/03.Points/03.Points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Team/04.Team.iml" filepath="$PROJECT_DIR$/04.Team/04.Team.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.ListAppendWithTimer/06.ListAppendWithTimer.iml" filepath="$PROJECT_DIR$/06.ListAppendWithTimer/06.ListAppendWithTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.WordCount/08.WordCount.iml" filepath="$PROJECT_DIR$/08.WordCount/08.WordCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/practice702.iml" filepath="$PROJECT_DIR$/.idea/practice702.iml" />
+    </modules>
+  </component>
+</project>
