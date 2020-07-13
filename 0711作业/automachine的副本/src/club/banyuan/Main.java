@@ -1,0 +1,10 @@
+package club.banyuan;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        VendingMachine vendingMachine=new VendingMachine();
+        System.out.println(vendingMachine);
+    }
+}
